@@ -1,0 +1,235 @@
+{
+  "Learning": [
+    { "name": "Khanmigo", "description": "Interactive AI tutor developed by Khan Academy for step-by-step guidance.", "url": "https://www.khanmigo.ai" },
+    { "name": "Quizlet AI", "description": "Automated flashcards, practice tests, and smart study guides.", "url": "https://quizlet.com" },
+    { "name": "Socratic by Google", "description": "Visual homework assistant that provides step-by-step explanations.", "url": "https://socratic.org" },
+    { "name": "Duolingo Max", "description": "AI-powered language tutor providing conversational practice and feedback.", "url": "https://www.duolingo.com" },
+    { "name": "StudySmarter (Vaia)", "description": "AI study planner and auto-flashcard generator.", "url": "https://www.studysmarter.de" },
+    { "name": "AnkiBrain", "description": "AI plugin for converting reading materials into active recall flashcards.", "url": "https://ankibrain.com" },
+    { "name": "Gauthmath", "description": "Instant step-by-step math and science problem solver.", "url": "https://www.gauthmath.com" },
+    { "name": "Mindgrasp", "description": "Generates notes, quizzes, and summaries from lectures and uploaded PDFs.", "url": "https://mindgrasp.ai" },
+    { "name": "Coursera Coach", "description": "Interactive learning assistant built into Coursera course modules.", "url": "https://www.coursera.org" },
+    { "name": "Brainly AI", "description": "AI-enhanced Q&A platform for academic homework help.", "url": "https://brainly.com" }
+  ],
+
+  "Teaching": [
+    { "name": "MagicSchool AI", "description": "Comprehensive toolkit for lesson planning, rubrics, and IEP creation.", "url": "https://www.magicschool.ai" },
+    { "name": "Eduaide.AI", "description": "Content generator for lesson plans, worksheets, and teaching resources.", "url": "https://www.eduaide.ai" },
+    { "name": "Curipod", "description": "Creates interactive slide decks with built-in student polling and activities.", "url": "https://curipod.com" },
+    { "name": "Diffit", "description": "Adapts reading passages and educational resources to any reading level.", "url": "https://web.diffit.me" },
+    { "name": "Gradescope", "description": "AI-assisted grading platform for paper and digital assignments.", "url": "https://www.gradescope.com" },
+    { "name": "Formative AI", "description": "Real-time assessment platform with automated question generation.", "url": "https://www.formative.com" },
+    { "name": "QuestionWell", "description": "Generates targeted assessment questions from articles and videos.", "url": "https://www.questionwell.org" },
+    { "name": "Brisk Teaching", "description": "Chrome extension for real-time feedback, differentiation, and AI detection.", "url": "https://www.briskteaching.com" },
+    { "name": "Canva for Education", "description": "Visual design platform with embedded AI graphic creation for teachers.", "url": "https://www.canva.com/education" },
+    { "name": "ClassPoint AI", "description": "Generates interactive quiz questions directly inside Microsoft PowerPoint.", "url": "https://www.classpoint.io" }
+  ],
+
+  "Research": [
+    { "name": "Elicit", "description": "Searches academic databases, synthesizes papers, and extracts core findings.", "url": "https://elicit.com" },
+    { "name": "Consensus", "description": "Research search engine that answers queries using evidence from scientific papers.", "url": "https://consensus.app" },
+    { "name": "Scite.ai", "description": "Analyzes citation context to show whether research supports or contrasts claims.", "url": "https://scite.ai" },
+    { "name": "ResearchRabbit", "description": "Visual discovery tool that maps literature connections and citations.", "url": "https://www.researchrabbit.ai" },
+    { "name": "Semantic Scholar", "description": "AI-driven search engine for discovering scientific literature.", "url": "https://www.semanticscholar.org" },
+    { "name": "Connected Papers", "description": "Generates visual graphs showing structural relationships between papers.", "url": "https://www.connectedpapers.com" },
+    { "name": "ChatPDF", "description": "Interactive PDF reader for questioning research documents.", "url": "https://www.chatpdf.com" },
+    { "name": "Scholarcy", "description": "Summarizes long academic papers into structured, bite-sized cards.", "url": "https://www.scholarcy.com" },
+    { "name": "Perplexity AI", "description": "Conversational answer engine providing real-time source citations.", "url": "https://www.perplexity.ai" },
+    { "name": "SciSpace (Typeset)", "description": "Explains equations, complex jargon, and charts inside research PDFs.", "url": "https://typeset.io" }
+  ],
+
+  "Programming": [
+    { "name": "GitHub Copilot", "description": "Code completion assistant integrated into modern IDEs.", "url": "https://github.com/features/copilot" },
+    { "name": "Cursor", "description": "AI-first code editor designed for building and refactoring whole codebases.", "url": "https://www.cursor.com" },
+    { "name": "Tabnine", "description": "Privacy-focused AI coding assistant for individuals and teams.", "url": "https://www.tabnine.com" },
+    { "name": "Replit Ghostwriter", "description": "Cloud-based code editor with built-in generation and debugging.", "url": "https://replit.com" },
+    { "name": "Codeium", "description": "Free, high-speed code completion extension supporting 70+ languages.", "url": "https://codeium.com" },
+    { "name": "Amazon Q Developer", "description": "Enterprise coding assistant for code analysis and architecture.", "url": "https://aws.amazon.com/q/developer" },
+    { "name": "Sourcegraph Cody", "description": "AI assistant with deep contextual awareness over complete repositories.", "url": "https://sourcegraph.com/cody" },
+    { "name": "v0 by Vercel", "description": "Generates production-ready React and Tailwind UI components from text.", "url": "https://v0.dev" },
+    { "name": "Phind", "description": "Search engine and code assistant designed specifically for developers.", "url": "https://www.phind.com" },
+    { "name": "Blackbox AI", "description": "Code extraction, autocomplete, and technical documentation helper.", "url": "https://www.blackbox.ai" }
+  ],
+
+  "Writing": [
+    { "name": "Grammarly", "description": "Comprehensive writing assistant for grammar, tone, and clarity.", "url": "https://www.grammarly.com" },
+    { "name": "Jasper", "description": "Creative copy generator and long-form content creation assistant.", "url": "https://www.jasper.ai" },
+    { "name": "Copy.ai", "description": "Workflow automation platform for writing essays, reports, and posts.", "url": "https://www.copy.ai" },
+    { "name": "QuillBot", "description": "Paraphrasing tool, grammar checker, and tone customization engine.", "url": "https://quillbot.com" },
+    { "name": "Sudowrite", "description": "Generative assistant tailored for creative storytelling and fiction.", "url": "https://www.sudowrite.com" },
+    { "name": "Wordtune", "description": "Rephrases sentences to improve flow, conciseness, and formality.", "url": "https://www.wordtune.com" },
+    { "name": "Notion AI", "description": "Built-in workspace editor for drafting, summarizing, and refining notes.", "url": "https://www.notion.so/product/ai" },
+    { "name": "Writesonic", "description": "Generates structured long-form content, blogs, and essays.", "url": "https://writesonic.com" },
+    { "name": "Hemingway Editor", "description": "AI readability editor highlighting complex sentences and passive voice.", "url": "https://hemingwayapp.com" },
+    { "name": "ProWritingAid", "description": "Advanced grammar, style, and structural editing tool.", "url": "https://prowritingaid.com" }
+  ],
+
+  "Presentation": [
+    { "name": "Gamma App", "description": "Generates complete presentation decks, web pages, and documents from a prompt.", "url": "https://gamma.app" },
+    { "name": "Tome", "description": "AI-driven storytelling workspace for generating visual presentations.", "url": "https://tome.app" },
+    { "name": "Beautiful.ai", "description": "Smart slide deck engine that automatically formats visual layouts.", "url": "https://www.beautiful.ai" },
+    { "name": "SlidesAI", "description": "Converts raw text documents directly into Google Slides and PowerPoint.", "url": "https://www.slidesai.io" },
+    { "name": "Pitch", "description": "Collaborative slide deck editor with layout automation features.", "url": "https://pitch.com" },
+    { "name": "Prezi AI", "description": "Converts structured text into dynamic, zooming presentation maps.", "url": "https://prezi.com" },
+    { "name": "Visme AI", "description": "Generates infographics, reports, and visual presentation slides.", "url": "https://www.visme.co" },
+    { "name": "Decktopus", "description": "Creates structured presentation decks complete with forms and voiceovers.", "url": "https://www.decktopus.com" },
+    { "name": "PopAi", "description": "Generates presentation slides based on uploaded documents and PDFs.", "url": "https://www.popai.pro" },
+    { "name": "Canva Magic Slides", "description": "Instant slide deck generator inside Canva's ecosystem.", "url": "https://www.canva.com" }
+  ],
+
+  "Image Generation": [
+    { "name": "Midjourney", "description": "High-detail visual artwork generator operating via Discord commands.", "url": "https://www.midjourney.com" },
+    { "name": "DALL-E 3", "description": "OpenAI's image generator known for accurate prompt execution.", "url": "https://openai.com/dall-e-3" },
+    { "name": "Adobe Firefly", "description": "Generative graphic tool integrated into Adobe Creative Cloud.", "url": "https://firefly.adobe.com" },
+    { "name": "Leonardo.ai", "description": "Versatile generative image model with customizable fine-tuning.", "url": "https://leonardo.ai" },
+    { "name": "Stable Diffusion", "description": "Open-source image model allowing full local control.", "url": "https://stability.ai" },
+    { "name": "Ideogram", "description": "Image generator specializing in clear, accurate typography inside visuals.", "url": "https://ideogram.ai" },
+    { "name": "Canva Magic Media", "description": "Text-to-image and text-to-graphics generator inside Canva.", "url": "https://www.canva.com" },
+    { "name": "Runway Gen-2", "description": "Generates high-quality visuals and motion graphics.", "url": "https://runwayml.com" },
+    { "name": "Flux", "description": "Open-weights image generation model designed for photorealistic rendering.", "url": "https://blackforestlabs.ai" },
+    { "name": "Recraft", "description": "Specialized generator for scalable vector graphics (SVG), icons, and 3D assets.", "url": "https://www.recraft.ai" }
+  ],
+
+  "Data Analysis": [
+    { "name": "ChatGPT Data Analysis", "description": "Executes Python code to clean datasets, calculate statistics, and generate charts.", "url": "https://chatgpt.com" },
+    { "name": "Julius AI", "description": "Interprets spreadsheet files and builds custom mathematical charts.", "url": "https://julius.ai" },
+    { "name": "Tableau AI", "description": "Automated analytics assistant for visualizing large-scale datasets.", "url": "https://www.tableau.com" },
+    { "name": "Polymer", "description": "Converts static raw spreadsheets into interactive data dashboards.", "url": "https://www.polymersearch.com" },
+    { "name": "Akio AI", "description": "Conversational interface for running queries on database data.", "url": "https://www.akio.ai" },
+    { "name": "Rows AI", "description": "Modern spreadsheet tool with built-in AI for data extraction and analysis.", "url": "https://rows.com" },
+    { "name": "Akkio", "description": "Predictive data modeling platform for non-technical users.", "url": "https://www.akkio.com" },
+    { "name": "MonkeyLearn", "description": "No-code sentiment and text classification engine for qualitative data.", "url": "https://monkeylearn.com" },
+    { "name": "ChartGPT", "description": "Transforms raw numerical data files into clean visual graphs.", "url": "https://www.chartgpt.dev" },
+    { "name": "Microsoft Copilot in Excel", "description": "Automates formula building, trend analysis, and charts.", "url": "https://www.microsoft.com/copilot" }
+  ],
+
+  "Translation": [
+    { "name": "DeepL Translate", "description": "High-precision machine translation supporting complex sentence context.", "url": "https://www.deepl.com" },
+    { "name": "Google Translate", "description": "Multilingual translation engine covering over 100 global languages.", "url": "https://translate.google.com" },
+    { "name": "HeyGen Translator", "description": "Translates spoken video content while cloning the original voice and syncing lips.", "url": "https://www.heygen.com" },
+    { "name": "ElevenLabs Dubbing", "description": "Automatic audio dubbing that retains speaker tone and emotion across languages.", "url": "https://elevenlabs.io" },
+    { "name": "Reverso Context", "description": "Context-based translation tool providing real-world example sentences.", "url": "https://www.reverso.net" },
+    { "name": "Systran", "description": "Secure enterprise translation platform for specialized terminology.", "url": "https://www.systrangroup.com" },
+    { "name": "Unbabel", "description": "Hybrid machine translation platform combined with human editing.", "url": "https://unbabel.com" },
+    { "name": "Papago", "description": "Translation engine optimized for accurate Asian language translation.", "url": "https://papago.naver.com" },
+    { "name": "Microsoft Translator", "description": "Real-time voice, text, and speech translation platform.", "url": "https://translator.microsoft.com" },
+    { "name": "Smartcat", "description": "AI document localization and multi-language translation platform.", "url": "https://www.smartcat.com" }
+  ],
+
+  "Video Creation": [
+    { "name": "RunwayML", "description": "Generative video ecosystem supporting text-to-video, inpainting, and camera control.", "url": "https://runwayml.com" },
+    { "name": "HeyGen", "description": "Creates lifelike digital avatars for video generation and educational content.", "url": "https://www.heygen.com" },
+    { "name": "Synthesia", "description": "Converts plain script text into professional presenter videos.", "url": "https://www.synthesia.io" },
+    { "name": "InVideo AI", "description": "Converts topic prompts into complete edited video clips with voiceovers.", "url": "https://invideo.io" },
+    { "name": "CapCut AI", "description": "Auto-captioning, background removal, and editing software.", "url": "https://www.capcut.com" },
+    { "name": "Descript", "description": "Video editor that allows editing video by editing the generated transcript text.", "url": "https://www.descript.com" },
+    { "name": "Pika Labs", "description": "Converts text prompts and static images into short animated videos.", "url": "https://pika.art" },
+    { "name": "Luma Dream Machine", "description": "Realistic video generation model for high-fidelity animations.", "url": "https://lumalabs.ai/dream-machine" },
+    { "name": "Opus Clip", "description": "Repurposes long-form lectures and videos into short, engaging clips.", "url": "https://www.opus.pro" },
+    { "name": "Veed.io", "description": "Online video editing platform with automated subtitle generation.", "url": "https://www.veed.io" }
+  ],
+
+  "Audio & Speech": [
+    { "name": "ElevenLabs", "description": "Text-to-speech platform and synthetic voice cloning engine.", "url": "https://elevenlabs.io" },
+    { "name": "Adobe Podcast", "description": "AI audio enhancement tool that cleans noise and background room echo.", "url": "https://podcast.adobe.com" },
+    { "name": "Murf.ai", "description": "Studio-quality AI voiceover generator for educational lectures.", "url": "https://murf.ai" },
+    { "name": "Otter.ai", "description": "Real-time meeting and lecture transcription tool with auto-summaries.", "url": "https://otter.ai" },
+    { "name": "Suno AI", "description": "Generates complete songs with instrumentation and vocals from text prompts.", "url": "https://suno.com" },
+    { "name": "Udio", "description": "High-fidelity music and soundtrack generation engine.", "url": "https://www.udio.com" },
+    { "name": "Speechify", "description": "Text-to-speech reader for listening to textbooks, PDFs, and web pages.", "url": "https://speechify.com" },
+    { "name": "Soundraw", "description": "Royalty-free music generator tailored for background media scoring.", "url": "https://soundraw.io" },
+    { "name": "Krisp", "description": "Noise-cancellation app that silences background noise during live calls.", "url": "https://krisp.ai" },
+    { "name": "Lovo.ai", "description": "Voice generation tool with expressive tone controls for narrations.", "url": "https://lovo.ai" }
+  ],
+
+  "Document Processing": [
+    { "name": "ChatPDF", "description": "Interactive PDF reader allowing quick search and Q&A over documents.", "url": "https://www.chatpdf.com" },
+    { "name": "PDF.ai", "description": "Converts documents into chat interfaces for instant information extraction.", "url": "https://pdf.ai" },
+    { "name": "DocuAsk", "description": "Analyzes multiple PDF documents simultaneously to cross-reference facts.", "url": "https://www.docuask.com" },
+    { "name": "LightPDF", "description": "Edits, converts, OCR scans, and summarizes long PDF files.", "url": "https://lightpdf.com" },
+    { "name": "AskYourPDF", "description": "Research paper and document reader plugin.", "url": "https://askyourpdf.com" },
+    { "name": "Unstructured.io", "description": "Converts unstructured documents (PDFs, docs) into clean structured data.", "url": "https://unstructured.io" },
+    { "name": "Rossum", "description": "Automated document parsing and extraction platform.", "url": "https://rossum.ai" },
+    { "name": "ABBYY FineReader PDF", "description": "High-accuracy OCR scanner and document conversion suite.", "url": "https://pdf.abbyy.com" },
+    { "name": "Klippa DocHorizon", "description": "Automated parsing engine for reading tabular document data.", "url": "https://www.klippa.com" },
+    { "name": "Doxster AI", "description": "Document organization and summary extraction platform.", "url": "https://doxster.ai" }
+  ],
+
+  "Productivity": [
+    { "name": "Notion AI", "description": "All-in-one workspace for notes, task management, and project tracking.", "url": "https://www.notion.so" },
+    { "name": "Zapier Central", "description": "Creates custom AI bots to automate web app workflows.", "url": "https://zapier.com/central" },
+    { "name": "Motion", "description": "Automatically plans schedules and calendar events around project deadlines.", "url": "https://www.usemotion.com" },
+    { "name": "Taskade", "description": "AI task lists, mind mapping, and team project management software.", "url": "https://www.taskade.com" },
+    { "name": "Clockwise", "description": "Optimizes calendar schedules to create uninterrupted focus blocks.", "url": "https://www.getclockwise.com" },
+    { "name": "Superhuman", "description": "High-speed email client with built-in AI drafting and inbox sorting.", "url": "https://superhuman.com" },
+    { "name": "SaneBox", "description": "AI email filter that prioritizes inbox messages automatically.", "url": "https://www.sanebox.com" },
+    { "name": "Reclaim.ai", "description": "Dynamic calendar assistant for scheduling habits, tasks, and meetings.", "url": "https://reclaim.ai" },
+    { "name": "Mem.ai", "description": "Self-organizing note workspace that connects project notes intelligently.", "url": "https://mem.ai" },
+    { "name": "Raycast AI", "description": "System launcher with custom developer shortcuts and inline AI actions.", "url": "https://www.raycast.com" }
+  ],
+
+  "Brainstorming & Creativity": [
+    { "name": "Miro AI", "description": "Interactive digital whiteboard that auto-generates mind maps and sticky notes.", "url": "https://miro.com" },
+    { "name": "Whimsical AI", "description": "Generates visual flowcharts, mind maps, and concept diagrams from prompts.", "url": "https://whimsical.com" },
+    { "name": "ChatPrd", "description": "AI assistant tailored for drafting product specifications and project roadmaps.", "url": "https://www.chatprd.ai" },
+    { "name": "Ideamap.ai", "description": "Visual workspace designed for team brainstorming and mapping.", "url": "https://ideamap.ai" },
+    { "name": "Stormboards", "description": "Virtual sticky note board that turns ideas into structured action plans.", "url": "https://stormboard.com" },
+    { "name": "Lucidchart AI", "description": "Creates architectural, system, and process flowcharts automatically.", "url": "https://www.lucidchart.com" },
+    { "name": "Boardmix AI", "description": "Visual collaboration board for mapping ideas and whiteboarding.", "url": "https://boardmix.com" },
+    { "name": "Visual Paradigm Online", "description": "Auto-generates UML diagrams, mind maps, and workflow charts.", "url": "https://online.visual-paradigm.com" },
+    { "name": "GitMind", "description": "Concept mapping and flowchart generator for organizing thoughts.", "url": "https://gitmind.com" },
+    { "name": "EdrawMax AI", "description": "Professional diagramming software with built-in layout generators.", "url": "https://edrawmax.wondershare.com" }
+  ],
+
+  "Summarizer": [
+    { "name": "TLDR This", "description": "Summarizes lengthy articles and web pages into concise bullet points.", "url": "https://www.tldrthis.com" },
+    { "name": "Eightify", "description": "Chrome extension that distills long YouTube lectures into actionable summaries.", "url": "https://eightify.app" },
+    { "name": "Resoomer", "description": "Summarizes academic and educational articles to extract core thesis points.", "url": "https://resoomer.com" },
+    { "name": "Wordtune Summarizer", "description": "Condenses long reports and research files into key takeaways.", "url": "https://www.wordtune.com/summarizer" },
+    { "name": "Genei", "description": "Summarizes complex articles and research documents for faster study reading.", "url": "https://www.genei.io" },
+    { "name": "Notta", "description": "Transcribes audio recordings and summarizes key conversational points.", "url": "https://www.notta.ai" },
+    { "name": "SummarizeBot", "description": "Multi-format summarizer capable of processing links, text, audio, and images.", "url": "https://www.summarizebot.com" },
+    { "name": "Upword", "description": "Generates summary notes and audio overviews from reading assignments.", "url": "https://www.upword.ai" },
+    { "name": "Katteb", "description": "Fact-checked content synthesis and summary tool.", "url": "https://katteb.com" },
+    { "name": "Blinkist AI", "description": "Generates short text and audio takeaways from non-fiction books and papers.", "url": "https://www.blinkist.com" }
+  ],
+
+  "Storytelling": [
+    { "name": "Character.ai", "description": "Conversational platform for roleplaying with historical or fictional characters.", "url": "https://character.ai" },
+    { "name": "NovelAI", "description": "Creative writing sandbox built for generating fiction, lore, and narratives.", "url": "https://novelai.net" },
+    { "name": "Latitude.io (AI Dungeon)", "description": "Infinite text-adventure storytelling game powered by AI.", "url": "https://aidungeon.com" },
+    { "name": "Shortwave", "description": "Assists in outlining plot hooks, character backstories, and creative prose.", "url": "https://www.shortwave.com" },
+    { "name": "Storybird AI", "description": "Generates illustrated children's storybooks from prompt scripts.", "url": "https://storybird.ai" },
+    { "name": "Submagic", "description": "Enhances short video stories with captions, sound effects, and transitions.", "url": "https://www.submagic.co" },
+    { "name": "Squibler", "description": "Story outlines and screenplay generation platform.", "url": "https://www.squibler.io" },
+    { "name": "Plot Factory", "description": "Novel planning, character building, and worldbuilding tool for writers.", "url": "https://plotfactory.com" },
+    { "name": "Inworld AI", "description": "Powers dynamic AI non-player characters (NPCs) for interactive stories.", "url": "https://inworld.ai" },
+    { "name": "Tome Storyteller", "description": "Creates visual narrative slide decks with AI-generated art.", "url": "https://tome.app" }
+  ],
+
+  "Blog Creation": [
+    { "name": "Surfer SEO", "description": "Generates SEO-optimized content outlines based on real-time competitor data.", "url": "https://surferseo.com" },
+    { "name": "Jasper Blog Creator", "description": "Generates full long-form articles complete with structural headings.", "url": "https://www.jasper.ai" },
+    { "name": "Byword.ai", "description": "Scale-ready article generator that builds SEO posts from keywords.", "url": "https://byword.ai" },
+    { "name": "HubSpot Campaign Assistant", "description": "Generates blog copy, outlines, and supporting social posts.", "url": "https://www.hubspot.com" },
+    { "name": "Scalenut", "description": "SEO content creation platform for long-form educational blogs.", "url": "https://www.scalenut.com" },
+    { "name": "GrowthBar", "description": "Creates blog outlines and articles designed to rank on search engines.", "url": "https://www.growthbarseo.com" },
+    { "name": "Neuroflash", "description": "Generates blog articles in various tones and languages.", "url": "https://neuroflash.com" },
+    { "name": "Writesonic Blog Writer", "description": "Generates long-form blog articles in seconds.", "url": "https://writesonic.com" },
+    { "name": "Kafkai", "description": "Generates domain-specific articles for educational marketing.", "url": "https://kafkai.com" },
+    { "name": "Content at Scale", "description": "Creates comprehensive, human-like long-form articles.", "url": "https://contentatscale.ai" }
+  ],
+
+  "Title Generation": [
+    { "name": "CoSchedule Headline Analyzer", "description": "Scores headlines for emotional impact, engagement, and SEO.", "url": "https://coschedule.com/headline-analyzer" },
+    { "name": "Tweak Your Biz Title Generator", "description": "Generates hundreds of title options categorized by topic style.", "url": "https://tweakyourbiz.com/title-generator" },
+    { "name": "Capitalize My Title", "description": "Headline generator with automatic capitalization grammar rules.", "url": "https://capitalizemytitle.com" },
+    { "name": "Portent Idea Generator", "description": "Generates creative and memorable article titles.", "url": "https://www.portent.com/tools/title-maker" },
+    { "name": "HubSpot Blog Idea Generator", "description": "Produces a week's worth of blog title concepts from core terms.", "url": "https://www.hubspot.com/blog-topic-generator" },
+    { "name": "SEOPressor Headline Generator", "description": "Creates catchy, click-worthy titles tailored to target audiences.", "url": "https://seopressor.com/headline-generator" },
+    { "name": "FatJoe Title Generator", "description": "Generates quick blog titles for editorial planning.", "url": "https://fatjoe.com/blog-title-generator" },
+    { "name": "Headline Studio", "description": "Analyzes power words and SEO metrics for catchy article titles.", "url": "https://coschedule.com/headline-studio" },
+    { "name": "Content Row Title Generator", "description": "Evaluates headline quality and generates engaging alternatives.", "url": "https://www.contentrow.com" },
+    { "name": "Copy.ai Title Generator", "description": "Generates hook sentences and video titles based on target tone.", "url": "https://www.copy.ai" }
+  ]
+}

@@ -1,0 +1,21 @@
+[
+ {
+   "id":1,
+   "name":"ChatGPT",
+   "category":"Learning",
+   "developer":"OpenAI",
+   "pricing":"Free",
+   "website":"https://chat.openai.com",
+   "description":"AI assistant for learning and research"
+ },
+
+ {
+   "id":2,
+   "name":"NotebookLM",
+   "category":"Research",
+   "developer":"Google",
+   "pricing":"Free",
+   "website":"https://notebooklm.google.com",
+   "description":"AI research assistant"
+ }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "description": "An AI-powered conversational assistant that supports learning, content creation, programming, problem-solving, and academic research through natural language interactions.",
+    "pricing": "Free + Paid",
+    "website": "https://chatgpt.com"
+  },
+  {
+    "id": 2,
+    "name": "NotebookLM",
+    "description": "An AI research and note-taking assistant that helps users organize, summarize, and interact with their own documents and study materials.",
+    "pricing": "Free",
+    "website": "https://notebooklm.google.com"
+  },
+  {
+    "id": 3,
+    "name": "Perplexity AI",
+    "description": "An AI-powered search and research platform that delivers accurate, citation-backed answers for academic and professional inquiries.",
+    "pricing": "Free + Pro",
+    "website": "https://www.perplexity.ai"
+  },
+  {
+    "id": 4,
+    "name": "Grammarly",
+    "description": "An AI writing assistant that improves grammar, spelling, clarity, tone, and overall writing quality.",
+    "pricing": "Free + Premium",
+    "website": "https://www.grammarly.com"
+  },
+  {
+    "id": 5,
+    "name": "QuillBot",
+    "description": "An AI-based writing enhancement tool offering paraphrasing, summarization, grammar checking, and citation support.",
+    "pricing": "Free + Premium",
+    "website": "https://quillbot.com"
+  },
+  {
+    "id": 6,
+    "name": "Canva AI",
+    "description": "An AI-enhanced design platform for creating presentations, posters, infographics, and visual content.",
+    "pricing": "Free + Pro",
+    "website": "https://www.canva.com"
+  },
+  {
+    "id": 7,
+    "name": "GitHub Copilot",
+    "description": "An AI coding assistant that provides real-time code suggestions and programming support.",
+    "pricing": "Free for Students + Paid",
+    "website": "https://github.com/features/copilot"
+  },
+  {
+    "id": 8,
+    "name": "Gamma",
+    "description": "An AI presentation platform that transforms ideas into professional presentations and documents.",
+    "pricing": "Free + Pro",
+    "website": "https://gamma.app"
+  },
+  {
+    "id": 9,
+    "name": "Photomath",
+    "description": "An AI-powered mathematics learning application that solves problems with step-by-step explanations.",
+    "pricing": "Free + Plus",
+    "website": "https://photomath.com"
+  },
+  {
+    "id": 10,
+    "name": "Quizizz AI",
+    "description": "An AI-assisted learning platform for creating interactive quizzes and assessments.",
+    "pricing": "Free + Paid",
+    "website": "https://quizizz.com"
+  }
+]

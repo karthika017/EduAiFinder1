@@ -1,0 +1,93 @@
+/* --- Hero Section Container --- */
+.hero-section {
+    width: 100%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* Generous top/bottom spacing to replace the space the logo took up */
+    padding: 80px 20px; 
+    box-sizing: border-box;
+}
+
+.hero-container {
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 30px; /* Perfect spacing between heading and search bar */
+}
+
+/* --- Hero Subtitle Text --- */
+.hero-subtitle {
+    font-size: 28px;
+    font-weight: 500;
+    color: #4a4a4a; /* Modern soft gray */
+    margin: 0;
+    letter-spacing: 0.5px;
+}
+
+/* --- Search Bar Styling --- */
+.search-bar-container {
+    width: 100%;
+    max-width: 600px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-input {
+    width: 100%;
+    padding: 16px 50px 16px 24px; /* Space on right for the search glass icon */
+    font-size: 16px;
+    border: 1px solid #dcdcdc;
+    border-radius: 30px; /* Smooth pill shape matching your screenshot */
+    background-color: #eef4fa; /* Soft blue tint background */
+    color: #333333;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+.search-input:focus {
+    border-color: #0f4c81; /* Changes border to matching navbar blue on focus */
+    box-shadow: 0 0 8px rgba(15, 76, 129, 0.15);
+    background-color: #ffffff; /* Turns white when user types */
+}
+
+.search-input::placeholder {
+    color: #758a9f;
+}
+
+/* --- Search Glass Icon --- */
+.search-icon {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%); /* Keeps the vector perfectly centered vertically */
+    color: #758a9f;              /* Soft blue-gray matching the placeholder text */
+    cursor: pointer;
+    user-select: none;
+    transition: color 0.2s ease;
+}
+
+.search-icon:hover {
+    color: #0f4c81;              /* Highlights to brand blue when hovered */
+}
+
+/* --- Mobile View Adjustments --- */
+@media (max-width: 768px) {
+    .hero-section {
+        padding: 50px 20px;
+    }
+    
+    .hero-subtitle {
+        font-size: 22px;
+    }
+    
+    .search-input {
+        padding: 12px 45px 12px 20px;
+        font-size: 15px;
+    }
+}

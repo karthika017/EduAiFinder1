@@ -1,0 +1,25 @@
+/* Ensure the body and HTML cover the full viewport height */
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+/* Create a flexible wrapper layout for your main app elements */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+}
+
+/* Make sure the main content fills the empty space, pushing the footer down */
+main {
+  flex: 1;
+}

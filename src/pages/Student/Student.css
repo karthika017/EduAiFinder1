@@ -1,0 +1,28 @@
+.student-page{
+    padding:40px;
+}
+
+.student-page h1{
+    text-align:center;
+}
+
+
+.tool-container{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:20px;
+}
+
+
+.tool-card{
+    padding:20px;
+    border-radius:10px;
+    background:white;
+    box-shadow:0 4px 10px #ddd;
+}
+
+
+.tool-card a{
+    text-decoration:none;
+    color:blue;
+}

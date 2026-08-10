@@ -1,0 +1,103 @@
+/* --- Navbar Wrapper --- */
+.navbar {
+    background-color: #0f4c81; /* Precise matching deep blue color */
+    color: #ffffff;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Keeps it locked cleanly above elements during scroll */
+    box-sizing: border-box;
+}
+
+.navbar-container {
+    width: 100%;
+    /* CHANGED: Expanded from 1200px to 100% to let the layout span the full browser width */
+    max-width: 100%; 
+    margin: 0;
+    /* CHANGED: Added generous padding (40px) so items don't hit the screen glass completely */
+    padding: 0 40px; 
+    display: flex;
+    justify-content: space-between; /* Pushes logo left, navigation links right */
+    align-items: center;
+    box-sizing: border-box;
+}
+
+/* --- Brand Section --- */
+.navbar-logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.nav-logo-icon {
+    color: #ffffff;
+}
+
+.navbar-logo h1 {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
+    letter-spacing: 0.5px;
+}
+
+/* --- Navigation Links --- */
+.navbar-links {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 24px; /* Clean tracking/spacing like the image layout */
+}
+
+.navbar-links li {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-links a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 6px 0;
+    position: relative;
+    transition: color 0.2s ease;
+}
+
+/* --- Underline Indicator (Active & Hover Effect) --- */
+.navbar-links a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #ffffff; /* Smooth clean line underneath just like the screenshot */
+    transition: width 0.2s ease;
+}
+
+.navbar-links a:hover::after,
+.navbar-links a.active::after {
+    width: 100%; /* Expands fully on active state or hover */
+}
+
+/* --- Mobile Responsiveness --- */
+@media (max-width: 768px) {
+    .navbar-container {
+        padding: 0 20px;
+    }
+    .navbar-links {
+        gap: 14px;
+        font-size: 14px;
+    }
+    .navbar-logo h1 {
+        font-size: 20px;
+    }
+}

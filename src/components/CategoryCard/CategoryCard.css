@@ -1,0 +1,79 @@
+.category-section {
+    background-color: #f4f7fa;
+    padding: 60px 20px 80px 20px;
+    text-align: center;
+}
+
+.category-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #0f4c81;
+    margin-bottom: 40px;
+}
+
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 24px; /* Expanded row/column space for breathing room */
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Button Reset & Layout Base */
+button.category-card-item,
+.category-card-item {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 24px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03); /* Softened shadows */
+    border: 1px solid #eaeaea;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    width: 100%;
+    font-family: inherit;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+/* Hover Effect */
+button.category-card-item:hover,
+.category-card-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(15, 76, 129, 0.08);
+    border-color: #0f4c81;
+}
+
+/* Active / Selected Category State */
+button.category-card-item.selected,
+.category-card-item.selected {
+    border-color: #0f4c81;
+    background-color: #eef5fc;
+    box-shadow: 0 8px 20px rgba(15, 76, 129, 0.12);
+    transform: translateY(-2px);
+}
+
+button.category-card-item.selected h3,
+.category-card-item.selected h3 {
+    color: #0f4c81;
+    font-weight: 700;
+}
+
+.category-icon-box {
+    color: #0f4c81; /* Enforces uniform blue vector styling */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.category-card-item h3 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #444444;
+    margin: 0;
+    line-height: 1.4;
+}

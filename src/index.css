@@ -1,0 +1,23 @@
+/* --- Global Resets --- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* --- Smooth Scrolling & Offsets --- */
+html {
+  scroll-behavior: smooth;
+  
+  /* Prevents your sticky navbar (if you have one) from covering 
+     up the section titles when you click a link */
+  scroll-padding-top: 80px; 
+}
+
+/* --- Base Body Styling --- */
+body {
+  background-color: #f4f7fb;
+  color: #333333;
+  overflow-x: hidden; /* Prevents unwanted horizontal scrollbars */
+}

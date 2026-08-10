@@ -1,0 +1,39 @@
+.tool-card{
+    background:#ffffff;
+    border-radius:12px;
+    padding:20px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+    transition:.3s;
+}
+
+.tool-card:hover{
+    transform:translateY(-5px);
+}
+
+.tool-card h2{
+    color:#1f3c88;
+    margin-bottom:10px;
+}
+
+.tool-card p{
+    color:#555;
+    line-height:1.6;
+    margin-bottom:15px;
+}
+
+.tool-card h4{
+    margin-bottom:5px;
+}
+
+.visit-btn{
+    display:inline-block;
+    padding:10px 18px;
+    background:#2563eb;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+}
+
+.visit-btn:hover{
+    background:#1d4ed8;
+}

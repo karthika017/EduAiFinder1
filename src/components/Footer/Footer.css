@@ -1,0 +1,134 @@
+.footer {
+    background-color: #0f4c81;
+    color: #ffffff;
+    padding: 60px 20px 20px 20px;
+    font-family: sans-serif;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.footer-col {
+    flex: 1;
+    min-width: 200px;
+}
+
+.brand-col {
+    max-width: 300px;
+}
+
+.footer-logo h2 {
+    font-size: 24px;
+    margin: 0 0 15px 0;
+    font-weight: 700;
+}
+
+.brand-description {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #d1e2f1;
+    margin-bottom: 20px;
+}
+
+.social-links {
+    display: flex;
+    gap: 12px;
+}
+
+.social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #ffffff;
+    text-decoration: none;
+    transition: background-color 0.2s;
+}
+
+.social-icon:hover {
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+.footer-col h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 20px 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+}
+
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-col ul li {
+    margin-bottom: 12px; /* Added clean spacing between links */
+}
+
+.footer-col ul li a {
+    color: #d1e2f1;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.2s;
+}
+
+.footer-col ul li a:hover {
+    color: #ffffff;
+}
+
+/* Contact Column Specifics */
+.contact-list li {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 14px;
+    color: #d1e2f1;
+}
+
+.contact-icon {
+    color: #ffffff; /* Replaced default emoji styles with sleek white vectors */
+    opacity: 0.9;
+}
+
+.contact-list li a {
+    color: #d1e2f1;
+    text-decoration: none;
+}
+
+.contact-list li a:hover {
+    color: #ffffff;
+}
+
+.footer-bottom {
+    max-width: 1200px;
+    margin: 40px auto 0 auto;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    text-align: left;
+}
+
+.footer-bottom p {
+    font-size: 13px;
+    color: #b0d0eb;
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        gap: 30px;
+    }
+}
